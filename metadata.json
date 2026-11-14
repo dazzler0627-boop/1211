@@ -1,0 +1,8 @@
+{
+  "name": "法式千層蛋糕疊疊樂",
+  "description": "暖陽法式甜點屋主題的 2D 蛋糕疊疊樂手機遊戲，掌握擺鐘時機投放並層層堆疊美味蛋糕。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
